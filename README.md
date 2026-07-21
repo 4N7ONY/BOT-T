@@ -1,7 +1,7 @@
 # BOT-T
 CODIGO FUNTE DE UN BOT DE TRADING CON IQ OPTION
 
-Para instal este bot dale click en BPIO
+Para instal este bot dale click en BPIO,
 al ingresar a BPIO te dara la diferentes opciones para que tu puedas descargar el bot
 
 
